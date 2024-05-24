@@ -1,0 +1,11 @@
+admin@gmail.com     admin123
+
+ahmed@gmail.com     123456
+
+sanger@gmail.com    alzan
+
+usertwo@gmail.com   user2
+
+
+jwt expires in 30d
+    Update Bearer token in admin login
